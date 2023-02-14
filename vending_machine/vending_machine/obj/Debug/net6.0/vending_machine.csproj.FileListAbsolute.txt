@@ -1,0 +1,30 @@
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\bin\Debug\net6.0\vending_machine.exe
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\bin\Debug\net6.0\vending_machine.deps.json
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\bin\Debug\net6.0\vending_machine.runtimeconfig.json
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\bin\Debug\net6.0\vending_machine.dll
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\bin\Debug\net6.0\vending_machine.pdb
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\vending_machine.csproj.AssemblyReference.cache
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\vending_machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\vending_machine.AssemblyInfoInputs.cache
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\vending_machine.AssemblyInfo.cs
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\vending_machine.csproj.CoreCompileInputs.cache
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\vending_machine.dll
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\refint\vending_machine.dll
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\vending_machine.pdb
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\vending_machine.genruntimeconfig.cache
+C:\Users\Tardis\Documents\School\OPA22 Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\ref\vending_machine.dll
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\bin\Debug\net6.0\vending_machine.exe
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\bin\Debug\net6.0\vending_machine.deps.json
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\bin\Debug\net6.0\vending_machine.runtimeconfig.json
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\bin\Debug\net6.0\vending_machine.dll
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\bin\Debug\net6.0\vending_machine.pdb
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\vending_machine.csproj.AssemblyReference.cache
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\vending_machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\vending_machine.AssemblyInfoInputs.cache
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\vending_machine.AssemblyInfo.cs
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\vending_machine.csproj.CoreCompileInputs.cache
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\vending_machine.dll
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\refint\vending_machine.dll
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\vending_machine.pdb
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\vending_machine.genruntimeconfig.cache
+C:\Users\Tardis\Documents\School\OPA22_Halmstad\Obj. Programmering\vending machine\vending_machine\vending_machine\obj\Debug\net6.0\ref\vending_machine.dll
